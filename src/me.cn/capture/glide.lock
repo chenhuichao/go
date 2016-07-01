@@ -1,0 +1,8 @@
+hash: 37ecfaf325f1aa5620c9f07e3774b29068d41e498c03dba1a31adfcb82f075ae
+updated: 2016-07-01T18:45:35.608398939+08:00
+imports:
+- name: github.com/pkg/term
+  version: 62a3461209d38082eff7297a83cc424ef1844a77
+  subpackages:
+  - termios
+devImports: []
